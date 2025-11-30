@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Transformer from Scratch in PyTorch
 
 This repository contains a PyTorch implementation of the Transformer model, as introduced in the paper "Attention Is All You Need". The project is designed to be a clear and educational resource for understanding and building the Transformer architecture from the ground up.
@@ -184,3 +185,6 @@ Make sure the path to your trained model checkpoint is correctly specified insid
 ```bash
 python evaluate_bleu.py
 
+=======
+# pytorch-transformer
+>>>>>>> e0c98d039ba6baa5cdcd21f392ced79d804efb8b
